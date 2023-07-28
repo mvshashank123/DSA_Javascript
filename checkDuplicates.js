@@ -32,7 +32,7 @@ function areThereDuplicates1() {
     }
     return false;
 }
-
+    
 //areThereDuplicates Solution (Multiple Pointers)
 function areThereDuplicates2(...args) {
     // Two pointers
